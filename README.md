@@ -11,9 +11,8 @@ Model Details
 
 Usage
 
-train.py - Trains the model on the conversational data
+main.py does training and inference in the same function I amy update this later. 
 
-interact.py - Generates chat responses interactively
 Training
 
     CrossEntropyLoss optimized with Adam
