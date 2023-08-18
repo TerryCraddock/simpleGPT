@@ -11,7 +11,7 @@ Model Details
 
 Usage
 
-main.py does training and inference in the same function I amy update this later. 
+main.py does training and inference in the same function I may update this later. 
 
 Training
 
